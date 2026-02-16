@@ -77,8 +77,7 @@ jupyter notebook
 ├── test_jednostkowe.py               # 4 testy jednostkowe
 ├── wiki_scraper_integration_test.py  # test integracyjny
 ├── requirements.txt                  # zależności
-├── analysis.ipynb                    # notatnik Jupyter z analizą języka
-└── (opcjonalnie) test_data/          # katalog z lokalnymi plikami HTML do testów
+└── analysis.ipynb                    # notatnik Jupyter z analizą języka
 ```
 
 ---
