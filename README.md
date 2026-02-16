@@ -1,9 +1,7 @@
-Oto gotowa zawartość pliku **README.md** — możesz ją skopiować w całości 👇
 
-````md
 # Wiki Scraper
 
-Projekt CLI do scrapowania danych z Wikipedii, zliczania słów oraz analizy częstotliwości językowej.
+Projekt CLI do scrapowania danych z Wiki, zliczania słów oraz analizy częstotliwości językowej.
 
 ---
 
@@ -84,36 +82,3 @@ jupyter notebook
 ```
 
 ---
-
-## Opis funkcjonalności
-
-* 📄 Pobieranie streszczeń artykułów Wikipedii
-* 📊 Ekstrakcja tabel z artykułów
-* 🔢 Zliczanie słów i zapis do JSON
-* 📈 Analiza częstotliwości słów i generowanie wykresów
-* 🔗 Automatyczne przechodzenie po linkach artykułów
-* ✅ Testy jednostkowe i integracyjne
-
----
-
-## Wymagania
-
-* Python 3.9+
-* biblioteki z pliku `requirements.txt`
-
----
-
-## Autor
-
-Projekt edukacyjny do analizy tekstu i web scrapingu.
-
-```
-
-Jeśli chcesz, mogę też:  
-✅ dodać sekcję **Instalacja krok po kroku dla Windows / Linux / Mac**  
-✅ dodać **opis argumentów CLI**  
-✅ zrobić bardziej „profesjonalny” README (badge, spis treści, przykładowe outputy)  
-✅ przygotować wersję po angielsku  
-
-Powiedz 🙂
-```
